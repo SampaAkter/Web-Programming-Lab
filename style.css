@@ -13,7 +13,6 @@
 }
 
 .our-menu-part1{
-  
   border: 2px solid black;
   align-items: center;
 
@@ -30,7 +29,7 @@
   padding: 0 10px;
 }
 #menu-part-title{
-
+  margin-left: auto;
   background-color: indianred;
   width: 60px;
   padding: 10px;
@@ -38,6 +37,7 @@
   border-bottom: 2px solid black;
 }
 #menu-part-title2{
+  margin-left: auto;
   background-color: red;
   width: 60px;
   padding: 10px;
@@ -46,6 +46,7 @@
   color: #fff;
 }
 #menu-part-title3{
+  margin-left: auto;
   background-color: wheat;
   width: 60px;
   padding: 10px;
